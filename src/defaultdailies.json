@@ -1,0 +1,152 @@
+{
+    "Giant Oyster": {
+        "name": "Giant Oyster",
+        "freq": "monthly",
+        "priority": 1
+    },
+    "God Statues": {
+        "name": "God Statues",
+        "freq": "monthly",
+        "priority": 2
+    },
+    "Troll Invasion": {
+        "name": "Troll Invasion",
+        "freq": "monthly",
+        "priority": 3
+    },
+    "Effigy Incubator": {
+        "name": "Effigy Incubator",
+        "freq": "monthly",
+        "priority": 4
+    },
+    "Tears of Guthix": {
+        "name": "Tears of Guthix",
+        "freq": "weekly",
+        "priority": 5
+    },
+    "Penguin Hide and Seek": {
+        "name": "Penguin Hide and Seek",
+        "freq": "weekly",
+        "priority": 6
+    },
+    "Balthazar Beauregard's Big Top Bonanza": {
+        "name": "Balthazar Beauregard's Big Top Bonanza",
+        "freq": "weekly",
+        "priority": 7
+    },
+    "Herby Werby": {
+        "name": "Herby Werby",
+        "freq": "weekly",
+        "priority": 8
+    },
+    "Meg": {
+        "name": "Meg",
+        "freq": "weekly",
+        "priority": 9
+    },
+    "Shop Stock Run": {
+        "name": "Shop Stock Run",
+        "freq": "daily",
+        "priority": 10
+    },
+    "Rune Goldberg Machine": {
+        "name": "Rune Goldberg Machine",
+        "freq": "daily",
+        "priority": 11
+    },
+    "Manor Farm": {
+        "name": "Manor Farm",
+        "freq": "daily",
+        "priority": 12
+    },
+    "Anachronia Dinosaur Farm": {
+        "name": "Anachronia Dinosaur Farm",
+        "freq": "daily",
+        "priority": 13
+    },
+    "Daily Challenges": {
+        "name": "Daily Challenges",
+        "freq": "daily",
+        "priority": 14
+    },
+    "Nemi Forest": {
+        "name": "Nemi Forest",
+        "freq": "daily",
+        "priority": 15
+    },
+    "Reaper Task": {
+        "name": "Reaper Task",
+        "freq": "daily",
+        "priority": 16
+    },
+    "Guthixian Caches": {
+        "name": "Guthixian Caches",
+        "freq": "daily",
+        "priority": 17
+    },
+    "Big Chinchompa": {
+        "name": "Big Chinchompa",
+        "freq": "daily",
+        "priority": 18
+    },
+    "Farming Tree Run": {
+        "name": "Farming Tree Run",
+        "freq": "daily",
+        "priority": 19
+    },
+    "Goebie Supply Runs": {
+        "name": "Goebie Supply Runs",
+        "freq": "daily",
+        "priority": 20
+    },
+    "Bork": {
+        "name": "Bork",
+        "freq": "daily",
+        "priority": 21
+    },
+    "Phoenix Lair": {
+        "name": "Phoenix Lair",
+        "freq": "daily",
+        "priority": 22
+    },
+    "Wisps of the Grove": {
+        "name": "Wisps of the Grove",
+        "freq": "weekly",
+        "priority": 100
+    },
+    "Familiarisation": {
+        "name": "Familiarisation",
+        "freq": "weekly",
+        "priority": 101
+    },
+    "Rush of Blood": {
+        "name": "Rush of Blood",
+        "freq": "weekly",
+        "priority": 102
+    },
+    "Skeletal Horror": {
+        "name": "Skeletal Horror",
+        "freq": "weekly",
+        "priority": 103
+    },
+    "Jadinko Hunting": {
+        "name": "Jadinko Hunting",
+        "freq": "weekly",
+        "priority": 104
+    },
+    "Memory of Nomad": {
+        "name": "Memory of Nomad",
+        "freq": "weekly",
+        "priority": 105
+    },
+    "Agoroth": {
+        "name": "Agoroth",
+        "freq": "weekly",
+        "priority": 299
+    },
+    "Premier Club Vault": {
+        "name": "Premier Club Vault",
+        "freq": "monthly",
+        "priority": 300
+    }
+}

@@ -1,0 +1,2 @@
+start /b
+npm start

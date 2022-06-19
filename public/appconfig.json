@@ -1,0 +1,15 @@
+{
+	"appName":"DailyScape Checklist",
+	"description":"Quick and easy DailyScape management app for Alt1",
+	"appUrl":"/",
+	"configUrl":"/appconfig.json",
+	"defaultWidth":300,
+	"defaultHeight":300,
+	"minWidth":200,
+	"minHeight":200,
+	"maxWidth":1000,
+	"maxHeight":1000,
+	"requestHandlers":[],
+	"activators":[],
+	"permissions":"pixel,gamestate,overlay"
+}
