@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "RuneScape UF";
+  src: local("RuneScape UF"),
+   url("./fonts/osrs/RuneScape-UF.woff") format("truetype");
+}

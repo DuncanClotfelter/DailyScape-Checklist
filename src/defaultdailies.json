@@ -29,8 +29,8 @@
         "freq": "weekly",
         "priority": 6
     },
-    "Balthazar Beauregard's Big Top Bonanza": {
-        "name": "Balthazar Beauregard's Big Top Bonanza",
+    "Circus": {
+        "name": "Circus",
         "freq": "weekly",
         "priority": 7
     },
@@ -64,50 +64,56 @@
         "freq": "daily",
         "priority": 13
     },
+    "Player-owned Ports": {
+        "name": "Player-owned Ports",
+        "freq": "daily",
+        "priority": 14
+    },
     "Daily Challenges": {
         "name": "Daily Challenges",
         "freq": "daily",
-        "priority": 14
+        "priority": 15
     },
     "Nemi Forest": {
         "name": "Nemi Forest",
         "freq": "daily",
-        "priority": 15
+        "priority": 16,
+        "link": "alt1://openapp/https://runeapps.org/apps/alt1/nemiforest/appconfig.json"
     },
     "Reaper Task": {
         "name": "Reaper Task",
         "freq": "daily",
-        "priority": 16
+        "priority": 17
     },
     "Guthixian Caches": {
         "name": "Guthixian Caches",
         "freq": "daily",
-        "priority": 17
+        "priority": 18
     },
     "Big Chinchompa": {
         "name": "Big Chinchompa",
         "freq": "daily",
-        "priority": 18
+        "priority": 19
     },
     "Farming Tree Run": {
         "name": "Farming Tree Run",
         "freq": "daily",
-        "priority": 19
+        "priority": 20
     },
     "Goebie Supply Runs": {
         "name": "Goebie Supply Runs",
         "freq": "daily",
-        "priority": 20
+        "priority": 21
     },
     "Bork": {
         "name": "Bork",
         "freq": "daily",
-        "priority": 21
+        "priority": 22
     },
     "Phoenix Lair": {
         "name": "Phoenix Lair",
         "freq": "daily",
-        "priority": 22
+        "priority": 23
     },
     "Wisps of the Grove": {
         "name": "Wisps of the Grove",
